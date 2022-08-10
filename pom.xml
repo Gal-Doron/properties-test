@@ -15,7 +15,7 @@
     <com.fasterxml.jackson.core.version>2.9.2</com.fasterxml.jackson.core.version>
     <commons-lang3.version>3.6</commons-lang3.version>
     <commons-io.version>2.6</commons-io.version>
-    <commons-beanutils.version>1.9.3</commons-beanutils.version>
+    <commons-beanutils.version>1.9.4</commons-beanutils.version>
   </properties>
   
 	<dependencies>
